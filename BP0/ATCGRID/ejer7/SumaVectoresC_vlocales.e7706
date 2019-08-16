@@ -1,0 +1,7 @@
+/var/spool/pbs/mom_priv/jobs/7706.atcgrid.SC: línea 22: 15572 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectores $N
+/var/spool/pbs/mom_priv/jobs/7706.atcgrid.SC: línea 22: 15574 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectores $N
+/var/spool/pbs/mom_priv/jobs/7706.atcgrid.SC: línea 22: 15577 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectores $N
+/var/spool/pbs/mom_priv/jobs/7706.atcgrid.SC: línea 22: 15580 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectores $N
+/var/spool/pbs/mom_priv/jobs/7706.atcgrid.SC: línea 22: 15583 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectores $N
+/var/spool/pbs/mom_priv/jobs/7706.atcgrid.SC: línea 22: 15585 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectores $N
+/var/spool/pbs/mom_priv/jobs/7706.atcgrid.SC: línea 22: 15587 Violación de segmento  (`core' generado) $PBS_O_WORKDIR/SumaVectores $N

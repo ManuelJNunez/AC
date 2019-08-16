@@ -1,0 +1,32 @@
+Id. usuario del trabajo: D1estudiante18
+Id. del trabajo: 19088.atcgrid
+NombreÂ  del trabajo especificado por usuario: pmv
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante18/bp2/ejer11
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.147019947	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.074178201	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.063694837	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.046812737	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.043435921	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.039391719	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.032111098	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.029699914	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.031981955	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.031390988	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.048330285	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /
+Dimensiones de la matriz:10000x10000 (4 B)
+Tiempo:0.042278352	 / Tamaño Matriz:10000x10000	/ M[0][k]*V[k]=V2[0](6667166650.000001) / / M[9999][k]*V[k]=V2[9999](6667166650.000001) /

@@ -1,0 +1,35 @@
+Id. usuario del trabajo: D1estudiante18
+Id. del trabajo: 21014.atcgrid
+NombreÂ  del trabajo especificado por usuario: pmv
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/D1estudiante18/bp3/ejer7
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule STATIC y tamaño de chunk 0:
+Tiempo:0.043887202	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule STATIC y tamaño de chunk 1:
+Tiempo:0.051438153	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule STATIC y tamaño de chunk 64:
+Tiempo:0.042522238	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule DYNAMIC y tamaño de chunk 1:
+Tiempo:0.061719366	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule DYNAMIC y tamaño de chunk 1:
+Tiempo:0.061594001	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule DYNAMIC y tamaño de chunk 64:
+Tiempo:0.039784413	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule GUIDED y tamaño de chunk 1:
+Tiempo:0.047131762	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule GUIDED y tamaño de chunk 1:
+Tiempo:0.048716091	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
+Dimensiones de la matriz:15360x15360 (4 B)
+Usando schedule GUIDED y tamaño de chunk 64:
+Tiempo:0.044274268	 / Tamaño Matriz:15360x15360	/ M[0][k]*V[k]=V2[0](24160370662.399998) / / M[15359][k]*V[k]=V2[15359](307.190000) /
